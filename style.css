@@ -1,0 +1,100 @@
+*
+{
+    font-family: 'Gulzar', serif;
+}
+nav ul li
+{
+    margin-left: 30px !important;
+     
+}
+ul
+{
+    position: relative;
+    color: black !important;
+    margin: auto;
+}
+a
+{
+    color: black !important;
+    font-size: 22px;
+    
+}
+a  img
+{
+    left: 332px !important;
+}
+i
+{
+    font-size: 22px;
+
+}
+#icon
+{
+    position: relative;
+    left: 100px ;
+    top:2px;
+
+}
+.buttons 
+{
+    position: relative;
+    top:-20px;
+
+}
+.buttons button
+{
+
+    color:white !important;
+    border-radius: none !important;
+
+}
+#fruit-items img
+{
+height: 50px;
+}
+#fruit-items h1
+{
+    color: orange;
+}
+p 
+{
+    letter-spacing: 2px;
+    font-size:large;
+}
+button:hover
+{
+    background: transparent !important;
+    color: black !important ;
+}
+ #row
+{
+    margin-top: 100px !important;
+
+}
+
+
+#tasty
+{
+    letter-spacing: 10px !important;
+    margin-left: 50px !important;
+    font-size: 142px;
+
+}
+#banner
+{
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url("/images/tasty-image.png");
+    height: 80vh;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#contact
+{
+    background-color: whitesmoke;
+    padding: 45px 70px !important;
+}
+
+.container-map
+{
+    
+}
